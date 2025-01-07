@@ -1,0 +1,501 @@
+Date,Tutor Name,Subject,Class Type,Hours Spent,Student Count,Rating
+2024-01-08,Ella Turner,English,Q&A,2.8,19,4.2
+2024-01-31,Liam Scott,History,Seminar,2.6,24,3.8
+2024-01-16,Maria Lee,Physics,Lecture,2.4,19,4.0
+2024-01-10,Liam Scott,Physics,Q&A,2.8,26,5.0
+2024-01-31,Alex Johnson,Economics,Seminar,1.7,17,4.4
+2024-01-31,Maria Lee,Biology,Seminar,2.6,12,5.0
+2024-01-06,Alex Johnson,Chemistry,Seminar,2.6,28,4.5
+2024-01-25,Olivia Adams,Math,Lecture,2.5,36,3.5
+2024-01-16,Emma Green,History,Workshop,2.2,37,4.3
+2024-01-10,Maria Lee,Physics,Workshop,1.2,40,4.1
+2024-01-11,Liam Scott,Physics,Q&A,1.4,35,3.8
+2024-01-17,David Kim,Physics,Q&A,2.0,17,4.1
+2024-01-31,Ella Turner,Economics,Q&A,2.9,25,3.6
+2024-01-24,Olivia Adams,Chemistry,Workshop,2.1,28,4.1
+2024-01-03,James Hall,English,Seminar,1.2,35,3.9
+2024-01-17,Olivia Adams,Physics,Lecture,1.5,13,3.8
+2024-01-12,Olivia Adams,History,Lecture,1.3,27,3.7
+2024-01-07,Sophia Brown,History,Q&A,1.0,29,4.8
+2024-01-04,David Kim,Math,Lecture,2.9,39,4.5
+2024-01-17,Ella Turner,Chemistry,Seminar,1.2,13,4.7
+2024-01-10,Maria Lee,Biology,Q&A,2.1,22,4.9
+2024-01-18,Maria Lee,Physics,Seminar,1.4,14,4.4
+2024-01-04,Sophia Brown,Biology,Workshop,2.5,33,4.2
+2024-01-18,David Kim,Physics,Lecture,2.5,36,4.3
+2024-01-10,Emma Green,Chemistry,Lecture,1.3,22,3.8
+2024-01-11,Emma Green,Math,Seminar,1.7,28,4.5
+2024-01-27,David Kim,Math,Workshop,1.5,35,4.6
+2024-01-19,Chris White,Computer Science,Lecture,1.6,28,3.5
+2024-01-25,Ella Turner,Computer Science,Lecture,1.8,30,3.8
+2024-01-23,Emma Green,English,Seminar,1.6,18,4.9
+2024-01-13,David Kim,Economics,Seminar,1.9,26,3.5
+2024-01-06,David Kim,English,Lecture,2.1,36,4.8
+2024-01-31,Sophia Brown,English,Workshop,2.3,39,3.5
+2024-01-11,Sophia Brown,Computer Science,Seminar,2.4,13,3.6
+2024-01-03,David Kim,History,Q&A,1.8,26,3.6
+2024-01-24,Chris White,Math,Seminar,1.2,34,3.9
+2024-01-06,David Kim,Math,Workshop,1.6,22,4.2
+2024-01-22,Maria Lee,Economics,Lecture,1.0,22,3.7
+2024-01-26,Olivia Adams,Chemistry,Lecture,2.4,32,3.9
+2024-01-05,Chris White,English,Q&A,1.4,20,3.9
+2024-01-02,Emma Green,Chemistry,Lecture,2.4,20,4.5
+2024-01-24,Ella Turner,Physics,Q&A,1.8,25,4.7
+2024-01-20,Olivia Adams,Math,Lecture,2.6,10,3.5
+2024-01-08,Liam Scott,Biology,Workshop,2.4,12,4.5
+2024-01-03,Alex Johnson,Physics,Workshop,1.1,29,4.7
+2024-01-10,Sophia Brown,History,Lecture,1.7,28,4.3
+2024-01-22,Emma Green,Physics,Lecture,2.4,10,4.6
+2024-01-27,Ella Turner,Chemistry,Lecture,1.4,16,3.7
+2024-01-10,Emma Green,History,Workshop,2.5,36,4.7
+2024-01-13,James Hall,Physics,Workshop,1.2,22,4.0
+2024-01-10,David Kim,Chemistry,Q&A,2.1,26,4.4
+2024-01-03,James Hall,Physics,Lecture,1.7,29,4.4
+2024-01-02,Emma Green,Chemistry,Seminar,1.9,25,3.9
+2024-01-28,Ella Turner,Biology,Lecture,1.7,13,4.4
+2024-01-02,Sophia Brown,History,Workshop,3.0,11,4.2
+2024-01-27,James Hall,English,Q&A,2.7,29,4.6
+2024-01-12,David Kim,Math,Lecture,1.0,19,4.8
+2024-01-15,Liam Scott,English,Seminar,1.1,20,4.9
+2024-01-30,David Kim,Chemistry,Workshop,2.6,10,3.9
+2024-01-18,Maria Lee,Physics,Seminar,1.4,25,4.4
+2024-01-25,Maria Lee,Math,Lecture,1.9,37,4.3
+2024-01-16,Chris White,Computer Science,Seminar,2.8,10,5.0
+2024-01-20,Chris White,Computer Science,Q&A,3.0,21,4.8
+2024-01-31,Sophia Brown,Biology,Lecture,2.2,11,3.6
+2024-01-22,Maria Lee,Chemistry,Lecture,2.6,35,3.8
+2024-01-14,Liam Scott,Physics,Q&A,2.4,24,4.9
+2024-01-03,Olivia Adams,Physics,Seminar,2.5,18,3.9
+2024-01-08,Alex Johnson,Economics,Workshop,1.1,17,4.2
+2024-01-23,Chris White,English,Lecture,2.2,16,4.0
+2024-01-07,Maria Lee,English,Lecture,2.5,11,3.9
+2024-01-14,David Kim,Math,Lecture,2.2,13,4.9
+2024-01-22,Ella Turner,Chemistry,Q&A,1.5,20,4.5
+2024-01-15,Emma Green,English,Workshop,1.5,37,3.8
+2024-01-22,Sophia Brown,Computer Science,Lecture,2.4,27,4.9
+2024-01-31,Emma Green,Biology,Lecture,3.0,15,3.7
+2024-01-24,Emma Green,History,Workshop,2.0,40,3.7
+2024-01-31,Chris White,Computer Science,Workshop,1.2,38,3.8
+2024-01-17,Maria Lee,Chemistry,Workshop,2.6,24,4.0
+2024-01-05,James Hall,History,Lecture,1.6,20,4.7
+2024-01-09,Liam Scott,Biology,Q&A,2.8,26,4.4
+2024-01-05,Chris White,Biology,Lecture,2.8,35,3.8
+2024-01-21,James Hall,Economics,Seminar,2.8,39,3.6
+2024-01-21,Maria Lee,Math,Lecture,2.1,23,4.8
+2024-01-30,Emma Green,Computer Science,Q&A,2.4,37,4.0
+2024-01-21,Emma Green,Chemistry,Seminar,1.2,14,4.5
+2024-01-24,David Kim,Biology,Workshop,2.7,11,3.5
+2024-01-30,Emma Green,Chemistry,Seminar,2.4,11,4.2
+2024-01-02,James Hall,Chemistry,Lecture,1.9,28,4.5
+2024-01-02,Liam Scott,Computer Science,Lecture,1.7,25,3.8
+2024-01-07,Liam Scott,Economics,Lecture,1.7,27,4.9
+2024-01-08,Alex Johnson,History,Seminar,1.7,39,3.5
+2024-01-06,Chris White,Chemistry,Workshop,2.4,37,3.9
+2024-01-23,Olivia Adams,Math,Lecture,2.7,38,4.9
+2024-01-29,Chris White,Chemistry,Lecture,1.0,40,3.7
+2024-01-17,Sophia Brown,Biology,Workshop,2.1,20,4.6
+2024-01-17,Maria Lee,English,Workshop,2.7,29,3.5
+2024-01-04,Olivia Adams,Math,Lecture,3.0,11,4.2
+2024-01-30,Ella Turner,Economics,Seminar,2.2,39,4.1
+2024-01-22,Sophia Brown,Computer Science,Lecture,2.4,12,4.6
+2024-01-17,Olivia Adams,History,Workshop,2.0,10,3.9
+2024-01-27,Chris White,English,Lecture,1.9,34,4.5
+2024-01-25,Olivia Adams,Math,Q&A,1.1,12,4.4
+2024-01-19,Ella Turner,Economics,Workshop,1.9,22,4.5
+2024-01-05,Olivia Adams,Chemistry,Lecture,2.0,35,4.5
+2024-01-13,Sophia Brown,Computer Science,Q&A,1.9,36,4.2
+2024-01-19,Chris White,English,Workshop,2.5,20,4.5
+2024-01-11,Emma Green,English,Lecture,1.3,39,4.5
+2024-01-16,Emma Green,History,Workshop,2.0,40,4.0
+2024-01-26,James Hall,Physics,Workshop,2.6,31,4.7
+2024-01-19,Sophia Brown,Economics,Lecture,2.6,15,4.2
+2024-01-31,Emma Green,Biology,Workshop,2.4,20,4.9
+2024-01-25,Liam Scott,Computer Science,Seminar,2.7,23,3.8
+2024-01-13,Ella Turner,History,Q&A,1.2,40,3.5
+2024-01-19,Ella Turner,Physics,Seminar,2.4,31,4.1
+2024-01-29,Chris White,Physics,Seminar,1.3,12,4.2
+2024-01-16,Olivia Adams,Chemistry,Lecture,2.6,11,3.8
+2024-01-08,Sophia Brown,Chemistry,Seminar,2.8,24,4.2
+2024-01-21,Olivia Adams,English,Seminar,2.3,17,3.9
+2024-01-16,Emma Green,Computer Science,Workshop,2.6,21,5.0
+2024-01-20,James Hall,English,Seminar,2.4,28,4.8
+2024-01-18,Olivia Adams,Computer Science,Workshop,2.7,12,5.0
+2024-01-25,Ella Turner,Physics,Workshop,1.4,14,4.4
+2024-01-24,Chris White,Chemistry,Seminar,1.0,21,4.1
+2024-01-03,James Hall,History,Lecture,2.5,31,3.8
+2024-01-19,Ella Turner,Chemistry,Workshop,3.0,18,4.4
+2024-01-16,Sophia Brown,History,Workshop,2.9,35,4.4
+2024-01-28,James Hall,English,Lecture,1.2,11,4.0
+2024-01-16,Ella Turner,English,Q&A,2.5,10,4.6
+2024-01-19,Liam Scott,Biology,Q&A,2.4,40,4.2
+2024-01-24,Maria Lee,Biology,Seminar,2.4,27,4.7
+2024-01-01,Chris White,English,Q&A,1.2,24,4.5
+2024-01-19,James Hall,Computer Science,Seminar,1.0,13,4.3
+2024-01-03,James Hall,Computer Science,Seminar,2.9,15,4.4
+2024-01-12,James Hall,Chemistry,Q&A,1.7,39,4.0
+2024-01-13,Olivia Adams,Biology,Workshop,1.5,23,4.0
+2024-01-09,Ella Turner,English,Q&A,1.6,19,3.5
+2024-01-30,Liam Scott,Computer Science,Workshop,1.7,36,3.9
+2024-01-24,Chris White,Chemistry,Q&A,2.1,33,4.7
+2024-01-28,Sophia Brown,Physics,Workshop,2.2,15,4.7
+2024-01-31,Alex Johnson,Physics,Lecture,1.4,36,4.0
+2024-01-06,Olivia Adams,Economics,Workshop,2.7,28,3.5
+2024-01-04,Maria Lee,Computer Science,Lecture,1.7,18,4.1
+2024-01-16,James Hall,Economics,Q&A,2.9,17,3.7
+2024-01-27,Maria Lee,Chemistry,Workshop,1.9,31,4.5
+2024-01-17,James Hall,Biology,Seminar,1.5,18,3.8
+2024-01-24,Emma Green,Chemistry,Lecture,2.5,26,3.8
+2024-01-26,Maria Lee,Economics,Workshop,1.9,30,4.0
+2024-01-28,Ella Turner,Physics,Lecture,2.3,29,4.2
+2024-01-01,James Hall,Physics,Lecture,2.5,32,3.8
+2024-01-10,Sophia Brown,Computer Science,Lecture,2.9,13,4.5
+2024-01-22,Sophia Brown,Biology,Q&A,2.0,13,4.5
+2024-01-28,Liam Scott,History,Seminar,2.5,25,3.5
+2024-01-05,James Hall,History,Workshop,2.5,22,3.7
+2024-01-18,Emma Green,History,Seminar,2.3,14,3.6
+2024-01-19,Chris White,Chemistry,Q&A,1.1,29,4.1
+2024-01-13,Alex Johnson,History,Lecture,1.3,17,5.0
+2024-01-05,Chris White,Physics,Seminar,2.6,10,4.1
+2024-01-09,James Hall,Biology,Q&A,2.6,18,3.7
+2024-01-09,Olivia Adams,Computer Science,Q&A,2.3,31,3.6
+2024-01-18,Emma Green,Physics,Seminar,1.2,13,4.6
+2024-01-18,Maria Lee,English,Workshop,1.9,40,4.2
+2024-01-29,Olivia Adams,History,Workshop,1.0,40,3.8
+2024-01-22,Alex Johnson,Math,Q&A,2.0,36,4.9
+2024-01-05,Emma Green,Biology,Q&A,1.3,34,4.1
+2024-01-13,Maria Lee,English,Q&A,2.8,37,3.9
+2024-01-05,Olivia Adams,Chemistry,Seminar,1.8,34,4.4
+2024-01-25,Sophia Brown,History,Seminar,2.7,32,4.1
+2024-01-08,Alex Johnson,Computer Science,Seminar,2.8,13,4.6
+2024-01-11,Maria Lee,Math,Seminar,1.3,25,4.7
+2024-01-17,Chris White,Chemistry,Q&A,1.5,23,4.2
+2024-01-31,Ella Turner,Computer Science,Seminar,2.1,32,4.6
+2024-01-23,Olivia Adams,History,Lecture,2.8,14,4.7
+2024-01-11,Chris White,Math,Workshop,1.5,15,3.8
+2024-01-29,Maria Lee,Math,Q&A,1.1,34,3.8
+2024-01-01,Olivia Adams,Chemistry,Q&A,2.7,27,3.7
+2024-01-17,Liam Scott,Computer Science,Lecture,2.6,34,4.1
+2024-01-11,Liam Scott,Physics,Lecture,2.0,12,4.4
+2024-01-22,Chris White,Biology,Seminar,2.9,16,3.6
+2024-01-10,Alex Johnson,Chemistry,Seminar,2.4,22,4.9
+2024-01-27,David Kim,Economics,Workshop,2.5,29,5.0
+2024-01-31,Liam Scott,English,Lecture,1.5,29,4.5
+2024-01-25,Olivia Adams,Chemistry,Seminar,1.8,10,4.0
+2024-01-17,Alex Johnson,Computer Science,Q&A,1.8,12,3.7
+2024-01-21,Olivia Adams,Biology,Lecture,2.4,12,4.5
+2024-01-24,Emma Green,Biology,Q&A,1.3,38,4.4
+2024-01-04,Liam Scott,Math,Q&A,2.5,25,4.6
+2024-01-01,Ella Turner,Math,Q&A,2.9,27,4.4
+2024-01-14,Liam Scott,Computer Science,Lecture,2.4,26,4.0
+2024-01-09,Alex Johnson,History,Lecture,2.7,34,3.8
+2024-01-01,Emma Green,Math,Lecture,1.6,13,3.9
+2024-01-14,David Kim,Computer Science,Workshop,2.2,29,3.5
+2024-01-23,Chris White,Economics,Lecture,2.3,27,4.8
+2024-01-01,Maria Lee,Physics,Seminar,2.8,19,4.6
+2024-01-01,David Kim,Computer Science,Q&A,1.1,14,4.4
+2024-01-03,Olivia Adams,History,Lecture,2.0,28,3.9
+2024-01-25,Alex Johnson,Physics,Q&A,2.5,37,4.1
+2024-01-25,Liam Scott,Math,Lecture,1.0,38,3.9
+2024-01-14,Olivia Adams,Physics,Q&A,2.6,18,4.7
+2024-01-30,Sophia Brown,Math,Q&A,2.1,29,4.6
+2024-01-27,Ella Turner,Economics,Lecture,2.1,36,4.3
+2024-01-15,Sophia Brown,History,Seminar,1.6,16,4.1
+2024-01-11,Maria Lee,Economics,Seminar,1.9,32,4.7
+2024-01-15,Maria Lee,English,Workshop,2.5,31,3.8
+2024-01-24,Sophia Brown,Chemistry,Workshop,2.5,15,4.2
+2024-01-26,Alex Johnson,Computer Science,Lecture,1.7,38,4.5
+2024-01-25,Olivia Adams,Physics,Q&A,1.9,34,4.1
+2024-01-28,Chris White,English,Workshop,1.6,18,4.3
+2024-01-01,Maria Lee,Physics,Lecture,2.0,33,4.5
+2024-01-02,James Hall,Math,Lecture,1.9,12,4.7
+2024-01-20,David Kim,History,Seminar,2.3,35,4.4
+2024-01-24,Ella Turner,Physics,Workshop,1.4,24,4.6
+2024-01-06,Chris White,Physics,Workshop,2.6,12,3.6
+2024-01-18,David Kim,Economics,Seminar,1.8,21,4.3
+2024-01-18,Olivia Adams,Chemistry,Lecture,2.6,13,4.5
+2024-01-08,Alex Johnson,English,Workshop,2.5,39,3.9
+2024-01-10,Emma Green,Physics,Seminar,1.8,24,4.2
+2024-01-08,David Kim,Math,Seminar,2.4,38,4.3
+2024-01-16,Ella Turner,Physics,Seminar,1.7,34,3.8
+2024-01-16,Emma Green,English,Seminar,2.7,11,3.9
+2024-01-24,Chris White,Physics,Q&A,1.4,33,4.8
+2024-01-13,Ella Turner,Physics,Q&A,2.8,32,4.6
+2024-01-14,Chris White,Economics,Lecture,2.3,23,3.9
+2024-01-01,David Kim,Economics,Q&A,1.2,22,3.6
+2024-01-14,James Hall,English,Workshop,2.3,11,5.0
+2024-01-21,Sophia Brown,History,Workshop,2.2,22,4.7
+2024-01-28,Olivia Adams,Physics,Q&A,2.6,29,4.3
+2024-01-27,James Hall,Math,Lecture,2.9,27,4.7
+2024-01-03,James Hall,Math,Workshop,2.6,14,3.9
+2024-01-15,Sophia Brown,Physics,Seminar,2.6,14,3.8
+2024-01-27,Olivia Adams,Physics,Lecture,2.0,24,3.8
+2024-01-11,Emma Green,English,Lecture,2.0,23,4.4
+2024-01-07,Sophia Brown,Computer Science,Seminar,1.5,15,4.6
+2024-01-06,James Hall,History,Lecture,2.2,33,4.0
+2024-01-15,Emma Green,Biology,Lecture,2.5,37,4.0
+2024-01-09,David Kim,Computer Science,Lecture,2.9,17,4.9
+2024-01-18,Olivia Adams,Computer Science,Workshop,2.1,11,4.2
+2024-01-19,Sophia Brown,English,Workshop,2.6,18,4.0
+2024-01-15,Liam Scott,Chemistry,Seminar,2.8,33,3.6
+2024-01-03,Liam Scott,English,Q&A,1.2,21,3.9
+2024-01-26,Ella Turner,History,Lecture,3.0,12,4.3
+2024-01-27,Emma Green,Chemistry,Seminar,2.1,30,4.5
+2024-01-29,Emma Green,Math,Seminar,2.8,31,4.7
+2024-01-23,Chris White,Computer Science,Lecture,1.1,27,4.7
+2024-01-13,David Kim,Computer Science,Lecture,2.1,27,4.1
+2024-01-01,Ella Turner,Biology,Q&A,1.6,19,4.0
+2024-01-06,Chris White,Chemistry,Lecture,2.4,33,4.2
+2024-01-04,Maria Lee,Physics,Q&A,1.7,35,4.0
+2024-01-29,Ella Turner,Physics,Lecture,1.7,34,3.9
+2024-01-27,Maria Lee,Physics,Q&A,2.4,15,4.7
+2024-01-15,Sophia Brown,Biology,Lecture,2.9,18,4.7
+2024-01-19,David Kim,History,Q&A,1.8,21,4.3
+2024-01-15,Olivia Adams,Math,Q&A,1.8,37,4.8
+2024-01-06,Alex Johnson,Economics,Lecture,1.9,23,4.4
+2024-01-21,Liam Scott,Biology,Q&A,1.6,28,4.6
+2024-01-29,Liam Scott,English,Q&A,2.3,21,4.6
+2024-01-21,Olivia Adams,History,Q&A,2.0,14,4.9
+2024-01-24,David Kim,History,Q&A,1.8,20,4.2
+2024-01-07,David Kim,Biology,Workshop,1.6,36,4.4
+2024-01-30,Sophia Brown,Math,Q&A,2.7,14,3.7
+2024-01-04,Ella Turner,English,Q&A,2.9,17,4.9
+2024-01-30,Liam Scott,Physics,Lecture,2.5,35,4.7
+2024-01-05,David Kim,History,Lecture,2.1,19,4.8
+2024-01-09,David Kim,Biology,Workshop,1.2,10,4.6
+2024-01-22,Chris White,History,Lecture,2.1,28,4.0
+2024-01-10,Chris White,Physics,Seminar,1.8,17,4.4
+2024-01-30,David Kim,English,Workshop,1.9,35,4.5
+2024-01-26,Olivia Adams,Physics,Q&A,1.7,40,4.9
+2024-01-18,Sophia Brown,Biology,Workshop,1.7,39,4.3
+2024-01-06,Liam Scott,English,Q&A,1.2,29,4.0
+2024-01-29,Alex Johnson,Chemistry,Workshop,2.3,39,4.6
+2024-01-20,James Hall,Chemistry,Q&A,1.4,20,4.3
+2024-01-28,Maria Lee,Computer Science,Lecture,2.3,14,4.8
+2024-01-23,Olivia Adams,Physics,Seminar,1.9,36,3.7
+2024-01-31,Sophia Brown,Math,Q&A,1.6,12,4.4
+2024-01-04,Liam Scott,Physics,Workshop,1.1,36,3.7
+2024-01-25,Sophia Brown,Math,Lecture,2.4,34,3.8
+2024-01-15,Maria Lee,Chemistry,Seminar,1.6,34,4.2
+2024-01-19,David Kim,Computer Science,Lecture,1.7,18,4.0
+2024-01-25,Olivia Adams,Economics,Q&A,2.1,32,4.5
+2024-01-30,David Kim,English,Q&A,2.2,21,4.6
+2024-01-24,Liam Scott,Economics,Lecture,2.8,32,4.8
+2024-01-09,Sophia Brown,History,Workshop,2.5,36,3.8
+2024-01-15,Chris White,Biology,Seminar,2.8,20,4.5
+2024-01-05,Chris White,Computer Science,Workshop,2.9,30,3.5
+2024-01-28,Liam Scott,English,Q&A,2.4,19,4.8
+2024-01-08,Sophia Brown,Physics,Q&A,2.9,22,4.4
+2024-01-12,Alex Johnson,History,Workshop,1.4,31,4.2
+2024-01-15,Alex Johnson,History,Lecture,1.6,37,4.1
+2024-01-30,Alex Johnson,Chemistry,Q&A,2.4,18,4.4
+2024-01-27,Alex Johnson,Physics,Seminar,2.7,29,4.5
+2024-01-08,Ella Turner,English,Lecture,2.7,24,4.2
+2024-01-03,Alex Johnson,Chemistry,Q&A,1.5,18,4.5
+2024-01-10,Olivia Adams,Biology,Workshop,2.5,29,4.2
+2024-01-24,Olivia Adams,Economics,Workshop,2.9,26,3.6
+2024-01-28,Ella Turner,Biology,Q&A,2.0,22,3.8
+2024-01-22,David Kim,Math,Lecture,2.7,16,3.9
+2024-01-05,Ella Turner,English,Workshop,2.9,36,4.7
+2024-01-14,James Hall,Biology,Q&A,2.0,12,3.5
+2024-01-20,Sophia Brown,Biology,Seminar,1.1,28,4.8
+2024-01-23,Alex Johnson,Biology,Workshop,2.9,12,4.9
+2024-01-03,Olivia Adams,Physics,Workshop,2.0,38,3.9
+2024-01-13,Olivia Adams,History,Seminar,2.8,26,4.9
+2024-01-09,Ella Turner,Economics,Workshop,2.5,37,4.4
+2024-01-19,Chris White,Economics,Seminar,1.3,27,4.6
+2024-01-15,David Kim,History,Workshop,1.3,36,4.5
+2024-01-12,James Hall,English,Lecture,2.9,36,3.9
+2024-01-28,Sophia Brown,Computer Science,Lecture,1.8,15,4.0
+2024-01-03,Sophia Brown,Chemistry,Workshop,1.5,40,4.0
+2024-01-09,David Kim,English,Seminar,3.0,11,4.7
+2024-01-26,David Kim,Math,Lecture,2.6,14,4.3
+2024-01-03,Liam Scott,Chemistry,Seminar,1.1,12,3.6
+2024-01-01,Chris White,Chemistry,Workshop,1.1,23,3.6
+2024-01-20,Olivia Adams,English,Seminar,1.2,35,4.4
+2024-01-22,Liam Scott,Economics,Workshop,2.6,38,4.2
+2024-01-28,Liam Scott,English,Q&A,1.7,14,3.7
+2024-01-09,David Kim,Physics,Lecture,2.8,14,4.3
+2024-01-26,Chris White,Physics,Lecture,1.3,24,4.0
+2024-01-29,Ella Turner,Chemistry,Seminar,2.9,27,3.7
+2024-01-16,Maria Lee,English,Q&A,2.3,11,4.3
+2024-01-14,Emma Green,Physics,Workshop,1.8,38,4.8
+2024-01-11,Olivia Adams,Economics,Workshop,1.1,14,4.2
+2024-01-20,David Kim,Physics,Seminar,2.0,36,5.0
+2024-01-13,Liam Scott,English,Seminar,1.0,35,4.7
+2024-01-25,Liam Scott,Physics,Lecture,1.3,18,3.5
+2024-01-03,James Hall,Chemistry,Seminar,1.2,14,3.7
+2024-01-19,Chris White,Math,Q&A,2.7,23,4.9
+2024-01-18,David Kim,Computer Science,Lecture,2.1,30,4.7
+2024-01-11,James Hall,Math,Q&A,2.9,20,4.4
+2024-01-18,Ella Turner,Economics,Seminar,1.7,35,4.7
+2024-01-22,Olivia Adams,Biology,Q&A,2.8,31,4.9
+2024-01-04,Liam Scott,Computer Science,Workshop,1.4,18,3.5
+2024-01-01,Ella Turner,History,Q&A,1.5,21,5.0
+2024-01-05,Sophia Brown,Chemistry,Seminar,1.4,34,4.6
+2024-01-19,Ella Turner,Math,Workshop,3.0,33,3.5
+2024-01-13,Alex Johnson,Economics,Q&A,1.7,25,4.2
+2024-01-30,Liam Scott,Biology,Seminar,2.1,27,3.7
+2024-01-07,Alex Johnson,Physics,Workshop,2.5,35,3.9
+2024-01-30,Maria Lee,Chemistry,Workshop,1.6,36,4.7
+2024-01-18,James Hall,Biology,Lecture,2.9,35,4.9
+2024-01-17,Chris White,Chemistry,Lecture,1.9,28,3.8
+2024-01-25,Chris White,Math,Lecture,2.6,11,3.6
+2024-01-30,Emma Green,Biology,Q&A,2.3,24,4.6
+2024-01-03,Liam Scott,Economics,Seminar,2.9,17,4.9
+2024-01-16,Alex Johnson,Computer Science,Q&A,1.6,31,4.3
+2024-01-09,Chris White,Computer Science,Q&A,2.8,28,5.0
+2024-01-23,Maria Lee,Math,Lecture,1.0,19,4.4
+2024-01-16,Chris White,Chemistry,Workshop,1.5,12,4.1
+2024-01-13,Maria Lee,English,Seminar,2.5,21,4.5
+2024-01-31,Sophia Brown,Physics,Lecture,1.4,15,4.0
+2024-01-24,Olivia Adams,English,Q&A,2.5,14,3.7
+2024-01-29,James Hall,Math,Seminar,1.4,18,4.3
+2024-01-05,Maria Lee,Economics,Q&A,1.6,24,4.5
+2024-01-25,Liam Scott,Chemistry,Seminar,1.2,20,4.6
+2024-01-24,Ella Turner,Chemistry,Q&A,2.1,38,4.2
+2024-01-22,Olivia Adams,Economics,Lecture,2.3,22,4.4
+2024-01-13,James Hall,Computer Science,Lecture,2.2,11,3.9
+2024-01-28,Olivia Adams,Physics,Workshop,1.3,20,4.0
+2024-01-03,Emma Green,Computer Science,Workshop,2.1,27,4.2
+2024-01-12,Maria Lee,English,Lecture,2.5,12,4.8
+2024-01-23,Alex Johnson,Economics,Seminar,1.2,15,4.6
+2024-01-27,David Kim,History,Lecture,1.6,25,4.5
+2024-01-26,James Hall,Physics,Seminar,1.7,10,5.0
+2024-01-28,Ella Turner,Math,Workshop,2.1,22,4.3
+2024-01-14,Liam Scott,Chemistry,Seminar,2.5,15,4.1
+2024-01-02,Ella Turner,Economics,Q&A,2.8,24,3.8
+2024-01-11,James Hall,Computer Science,Lecture,2.4,16,4.6
+2024-01-04,Alex Johnson,Physics,Lecture,2.6,39,3.7
+2024-01-25,Emma Green,Chemistry,Seminar,1.5,39,4.0
+2024-01-02,Ella Turner,History,Workshop,1.7,25,4.0
+2024-01-14,Ella Turner,Chemistry,Lecture,1.5,23,3.7
+2024-01-21,Alex Johnson,History,Q&A,1.4,31,4.7
+2024-01-10,Emma Green,Chemistry,Workshop,1.5,18,4.8
+2024-01-07,David Kim,Math,Workshop,1.1,26,4.3
+2024-01-17,Chris White,History,Seminar,2.0,14,3.6
+2024-01-17,Alex Johnson,Economics,Workshop,1.9,24,4.7
+2024-01-29,Olivia Adams,English,Q&A,1.5,35,4.1
+2024-01-19,David Kim,Math,Seminar,1.6,30,4.9
+2024-01-15,Olivia Adams,English,Q&A,1.6,27,4.6
+2024-01-07,Olivia Adams,Economics,Workshop,2.3,20,4.8
+2024-01-21,Sophia Brown,History,Q&A,2.5,15,3.8
+2024-01-24,Alex Johnson,Biology,Q&A,1.8,28,4.3
+2024-01-03,Liam Scott,Economics,Lecture,1.5,13,4.3
+2024-01-15,Ella Turner,Math,Seminar,2.1,12,4.6
+2024-01-08,Chris White,Math,Workshop,1.5,20,4.3
+2024-01-18,Alex Johnson,Chemistry,Q&A,2.5,11,3.7
+2024-01-15,Ella Turner,History,Workshop,2.5,37,5.0
+2024-01-19,Liam Scott,History,Lecture,1.4,12,3.5
+2024-01-27,Sophia Brown,Math,Seminar,1.1,10,3.5
+2024-01-17,Olivia Adams,History,Lecture,1.8,13,3.8
+2024-01-28,Liam Scott,English,Workshop,1.6,17,3.6
+2024-01-11,Alex Johnson,Chemistry,Q&A,2.4,28,4.1
+2024-01-06,Ella Turner,Biology,Seminar,2.0,23,4.3
+2024-01-11,Chris White,Physics,Q&A,1.1,10,3.8
+2024-01-21,James Hall,Biology,Lecture,1.8,32,3.6
+2024-01-21,Liam Scott,Physics,Workshop,2.1,28,4.9
+2024-01-09,Maria Lee,Math,Seminar,1.7,29,3.9
+2024-01-06,Chris White,English,Seminar,1.5,16,4.9
+2024-01-04,David Kim,Economics,Workshop,1.8,14,4.2
+2024-01-20,Alex Johnson,Physics,Q&A,2.0,30,3.8
+2024-01-24,Olivia Adams,English,Q&A,1.4,31,3.9
+2024-01-03,Maria Lee,Biology,Lecture,2.3,12,3.7
+2024-01-08,Olivia Adams,Math,Seminar,2.6,23,3.8
+2024-01-10,James Hall,History,Q&A,2.4,11,4.9
+2024-01-21,James Hall,History,Seminar,1.7,39,4.4
+2024-01-21,David Kim,History,Lecture,1.2,18,4.8
+2024-01-24,Chris White,Economics,Lecture,1.8,26,4.8
+2024-01-22,Olivia Adams,Chemistry,Workshop,1.6,30,4.9
+2024-01-21,Emma Green,Computer Science,Lecture,1.5,14,4.9
+2024-01-26,Liam Scott,Economics,Seminar,2.2,12,4.0
+2024-01-29,Alex Johnson,History,Lecture,1.8,17,4.4
+2024-01-21,David Kim,English,Lecture,2.0,20,3.5
+2024-01-22,Chris White,History,Seminar,1.2,36,4.1
+2024-01-25,Ella Turner,History,Lecture,1.5,19,3.8
+2024-01-22,Sophia Brown,Economics,Q&A,2.8,38,3.5
+2024-01-01,James Hall,Biology,Q&A,2.7,28,3.9
+2024-01-17,Olivia Adams,English,Workshop,2.6,21,3.5
+2024-01-02,David Kim,Economics,Lecture,2.0,31,4.8
+2024-01-25,Alex Johnson,English,Workshop,2.7,31,4.6
+2024-01-02,Liam Scott,Biology,Q&A,2.6,36,4.0
+2024-01-14,Alex Johnson,History,Workshop,1.9,14,3.6
+2024-01-25,Alex Johnson,Math,Q&A,1.0,25,3.8
+2024-01-08,Alex Johnson,Physics,Q&A,1.9,37,3.8
+2024-01-12,Maria Lee,Computer Science,Seminar,1.5,28,4.8
+2024-01-19,Liam Scott,History,Seminar,2.3,22,4.0
+2024-01-14,David Kim,Physics,Q&A,2.8,26,4.9
+2024-01-22,Ella Turner,History,Seminar,2.4,10,3.7
+2024-01-10,David Kim,Physics,Seminar,3.0,13,4.4
+2024-01-22,Sophia Brown,History,Q&A,2.5,40,3.8
+2024-01-26,Chris White,Physics,Seminar,1.8,26,4.3
+2024-01-12,Liam Scott,Computer Science,Seminar,1.8,14,4.6
+2024-01-06,Olivia Adams,Economics,Lecture,3.0,13,4.2
+2024-01-03,Chris White,Chemistry,Seminar,2.1,34,4.3
+2024-01-25,Emma Green,English,Workshop,2.2,17,4.8
+2024-01-24,Sophia Brown,Chemistry,Q&A,2.4,17,3.6
+2024-01-30,Alex Johnson,Math,Q&A,1.9,27,4.3
+2024-01-27,Liam Scott,Math,Q&A,2.0,35,3.6
+2024-01-02,Sophia Brown,Biology,Q&A,1.5,23,4.6
+2024-01-02,Emma Green,Chemistry,Workshop,1.4,38,3.6
+2024-01-19,David Kim,Chemistry,Seminar,2.2,32,4.8
+2024-01-11,Maria Lee,History,Lecture,2.9,29,4.8
+2024-01-16,Olivia Adams,Computer Science,Seminar,1.6,11,4.7
+2024-01-28,Maria Lee,Physics,Lecture,1.7,14,4.6
+2024-01-18,Alex Johnson,Physics,Workshop,1.1,37,4.4
+2024-01-29,Olivia Adams,Economics,Workshop,2.2,18,4.0
+2024-01-28,Sophia Brown,Economics,Lecture,1.4,37,4.1
+2024-01-28,James Hall,Computer Science,Q&A,1.9,14,4.1
+2024-01-01,James Hall,Economics,Lecture,2.2,31,3.7
+2024-01-31,Emma Green,Physics,Lecture,2.4,33,4.4
+2024-01-12,Liam Scott,Math,Seminar,1.2,16,4.5
+2024-01-18,Maria Lee,Math,Seminar,1.9,25,4.3
+2024-01-29,David Kim,English,Seminar,2.2,14,4.5
+2024-01-21,Maria Lee,Economics,Workshop,2.5,10,4.9
+2024-01-28,Olivia Adams,Math,Lecture,1.0,38,4.9
+2024-01-20,Chris White,Chemistry,Q&A,3.0,21,3.7
+2024-01-10,Ella Turner,Computer Science,Lecture,2.0,10,4.0
+2024-01-23,David Kim,Biology,Lecture,2.9,31,4.7
+2024-01-24,Ella Turner,English,Q&A,2.1,22,4.2
+2024-01-07,Ella Turner,Biology,Workshop,1.5,37,3.8
+2024-01-15,Olivia Adams,Physics,Lecture,2.7,27,4.0
+2024-01-24,Emma Green,Chemistry,Q&A,2.9,37,4.7
+2024-01-29,James Hall,History,Seminar,2.8,16,4.4
+2024-01-27,James Hall,Chemistry,Seminar,2.0,13,4.1
+2024-01-06,James Hall,English,Q&A,2.6,11,4.0
+2024-01-24,Ella Turner,Economics,Q&A,1.8,17,4.5
+2024-01-27,Emma Green,English,Seminar,2.3,24,4.7
+2024-01-28,Liam Scott,History,Workshop,2.2,33,4.3
+2024-01-16,David Kim,Physics,Q&A,1.2,25,4.2
+2024-01-31,Olivia Adams,Economics,Lecture,2.2,36,4.5
+2024-01-07,Olivia Adams,Economics,Seminar,1.1,22,4.9
+2024-01-06,Maria Lee,Math,Lecture,2.9,20,4.4
+2024-01-07,Sophia Brown,Computer Science,Workshop,2.5,28,3.6
+2024-01-15,Olivia Adams,Math,Lecture,2.8,27,4.8
+2024-01-21,Emma Green,Chemistry,Workshop,1.4,39,5.0
+2024-01-07,Ella Turner,Biology,Q&A,2.5,10,3.7
+2024-01-03,Alex Johnson,Physics,Q&A,2.5,30,4.5
+2024-01-15,Emma Green,Computer Science,Workshop,1.9,27,3.8
+2024-01-06,Maria Lee,History,Workshop,1.1,27,4.9
+2024-01-22,Chris White,Economics,Lecture,2.2,10,4.1
+2024-01-27,James Hall,English,Lecture,2.5,18,3.9
+2024-01-08,David Kim,History,Q&A,2.9,18,3.9
+2024-01-29,Olivia Adams,Chemistry,Workshop,2.2,33,4.3
+2024-01-13,David Kim,Computer Science,Lecture,1.1,18,3.9
+2024-01-16,Ella Turner,English,Seminar,2.9,40,4.6
+2024-01-19,Chris White,Computer Science,Seminar,1.3,26,3.6
+2024-01-30,Chris White,Chemistry,Seminar,1.1,19,4.0
+2024-01-06,James Hall,Economics,Lecture,1.9,29,3.5
+2024-01-23,James Hall,English,Q&A,2.0,18,4.8
+2024-01-24,Sophia Brown,Chemistry,Seminar,2.3,40,3.9
+2024-01-21,David Kim,Physics,Seminar,2.9,27,4.5
+2024-01-01,Sophia Brown,Chemistry,Workshop,2.8,26,4.1
+2024-01-28,Emma Green,Math,Q&A,2.3,28,3.7
+2024-01-28,Ella Turner,Math,Lecture,1.2,29,3.8
+2024-01-28,Ella Turner,Economics,Q&A,1.5,29,3.7
+2024-01-12,Chris White,Computer Science,Seminar,3.0,28,4.5
+2024-01-03,David Kim,Chemistry,Lecture,2.7,39,4.3
+2024-01-23,Maria Lee,Physics,Workshop,1.1,15,4.9
+2024-01-16,James Hall,Economics,Seminar,2.9,12,4.2
+2024-01-14,Olivia Adams,History,Workshop,1.1,32,4.7
+2024-01-27,Ella Turner,English,Lecture,1.7,12,4.3
+2024-01-01,Sophia Brown,Biology,Lecture,2.5,17,4.7
