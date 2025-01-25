@@ -49,9 +49,7 @@ The dataset was imported into Tableau to create interactive dashboards. Key visu
   - Patterns in student participation and ratings.
 
 ### How to View the Dashboard
-The final Tableau dashboard is published on Tableau Public. You can view it here: [Tableau Dashboard Link](#) *(Replace with actual link once published)*
-
----
+The final Tableau dashboard is published on Tableau Public. You can view it here: https://public.tableau.com/views/EducationAnalyticsAData-DrivenPerspective/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link 
 
 ## Repository Structure
 
